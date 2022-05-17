@@ -1,6 +1,6 @@
 # todoey
 
-A new Flutter project.
+Taks List Project
 
 ## Getting Started
 
